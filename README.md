@@ -1,2 +1,2 @@
 # Capstone-Project
-Capstone project
+IBM-datascience-capstone-project
